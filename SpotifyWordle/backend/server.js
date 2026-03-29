@@ -6,7 +6,7 @@ const PORT = 3000;
 app.get("/api/top-songs", (req, res) => {
     res.json([
         { title: "Blinding Lights", artist: "The Weeknd" },
-        { title: "Levitating", artist: "Dua Lipa" },
+        { title: "Levitating", artist: " a" },
         { title: "As It Was", artist: "Harry Styles" }
     ]);
 });
