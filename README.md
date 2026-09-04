@@ -1,2 +1,2 @@
 # SpotifyWordle
-Using Spotify API to retrieve the global top 50 songs and creating a wordle-based android app to guess what song it is based on the album cover being displayed
+An Android application built using the Spotify API to retrieve songs from Spotify’s Global Top 50. The app displays an album cover and challenges the user to identify the corresponding song through a Wordle-inspired guessing game.
